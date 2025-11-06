@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=blur&&color=auto&text=Hello%World!&&color=auto&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=blur&text=Hello%World!&&color=auto&fontSize=40)
