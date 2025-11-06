@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=blurtext=Hello%World!)
+![header](https://capsule-render.vercel.app/api?type=blur&text=Hello%World!)
